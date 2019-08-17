@@ -55,3 +55,21 @@ npm run build --report
 #### 数据报表
 > ![](doc/数据报表.png)
 
+
+├─commom 公共模块
+│  ├─breadcrumb 封装的面包屑组件
+│  └─style 重置样式
+├─components
+│  ├─addGood 添加商品
+│  ├─categories 商品分类 
+│  ├─cateparams 分类参数
+│  ├─dataReport 数据报表
+│  ├─goodList 商品列表
+│  ├─home 主页
+│  ├─login 登陆页面
+│  ├─orderList 订单列表
+│  ├─permission 权限列表
+│  ├─roleList 角色列表
+│  └─users 用户列表
+├─plugins 封装的axios
+└─router 路由
