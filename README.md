@@ -54,8 +54,7 @@ npm run build --report
 
 #### 数据报表
 > ![](doc/数据报表.png)
-
-
+```bash
 ├─commom 公共模块
 │  ├─breadcrumb 封装的面包屑组件
 │  └─style 重置样式
@@ -73,3 +72,6 @@ npm run build --report
 │  └─users 用户列表
 ├─plugins 封装的axios
 └─router 路由
+
+```
+
