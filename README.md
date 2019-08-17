@@ -54,6 +54,7 @@ npm run build --report
 
 #### 数据报表
 > ![](doc/数据报表.png)
+## 项目结构
 ```bash
 ├─commom 公共模块
 │  ├─breadcrumb 封装的面包屑组件
